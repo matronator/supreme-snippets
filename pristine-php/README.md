@@ -1,6 +1,6 @@
 # Pristine PHP
 
-![Pristine PHP logo](logo.jpg)
+![Pristine PHP logo](pristine-php.jpg)
 
 Collection of useful PHP functions and code snippets.
 
@@ -12,6 +12,7 @@ Collection of useful PHP functions and code snippets.
     - [Folder exists](#folder-exists)
     - [JSON to class](#json-to-class)
     - [One time file download](#one-time-file-download)
+    - [String capitalization](#string-capitalization)
 
 <!-- /TOC -->
 
